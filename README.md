@@ -7,4 +7,13 @@
  Basicamente ele pega a ideia do Asteroids original do Arcade, como a jogabilidade dificil, a forma que a espaço nave se mexe, os próprios Asteroids e adiciona algumas coisas bem intrigantes! Adicionando um **mapa aberto**, **coletaveis**, **dificuldade procedural**, uso da tecnologia **Pressure Sensitive** em controles, a nave espacial pode dar **Drift** deixando **rastro de fumaça com uma música de fundo**
 
 ### Compatibilidades
- Compatível com controle genérico, com as tecnologias do controle DualShock 2, Tecnologia Sixaxis presente no Dualshock 3, tecnologia giroscópica e compatibilidade com motor de vibração
+✓ Windows <br>
+✓ Áudio 3d <br>
+✓ 64 Bits, 32 Bits e ARM
+
+### Requisitos
+Intel i5 Gen One ou AMD FX 4100 <br>
+Geforce GT 520 ou Radeon R5 220 <br>
+2GB de Ram e 1024MB Vram <br>
+HDD ou SSD <br>
+Resolução mínima de 1024x720
