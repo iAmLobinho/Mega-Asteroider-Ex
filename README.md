@@ -2,9 +2,9 @@
  Um **fã remaster** do jogo clássico Asteroids para a geração atual, com mapa aberto, coleta de itens com posicionamento pseudo-aleatórios, dificuldade procedural e uso das novas tecnologias na Unity para um melhor aproveito e potencialização da jogabilidade
 
 ### Diferenciais
- Mega Asteroider Ex, ele tenta pegar a _**nostalgia**_ e melhorar ela usando a evolução tecnológica das **Engines**, que no caso é a Unity usando a versão _2021.3.45f1_, mas em que sentindo? Simples!
+Mega Asteroider Ex, ele tenta pegar a nostalgia e melhorar ela usando a evolução tecnológica das Engines, que no caso é a Unity usando a versão 2021.3.45f1, mas em que sentido? Simples!
 
- Basicamente ele pega a ideia do Asteroids original do Arcade, como a jogabilidade dificil, a forma que a espaço nave se mexe, os próprios Asteroids e adiciona algumas coisas bem intrigantes! Adicionando um **mapa aberto**, **coletaveis**, **dificuldade procedural** e a nave espacial pode dar **Drift** 
+Basicamente ele pega a ideia do Asteroids original do Arcade, como a jogabilidade difícil, a forma que a nave espacial se mexe, os próprios Asteroids e adiciona algumas coisas bem intrigantes! Adicionando um mapa aberto, coletáveis, dificuldade procedural e a nave espacial pode dar Drift
 
 ### Compatibilidades
 ✓ Windows <br>
