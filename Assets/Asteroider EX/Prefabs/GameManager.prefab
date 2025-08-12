@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7075576108265039813
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1669252426867065005}
+  - component: {fileID: 2193743448424201423}
+  - component: {fileID: 4250100727704015050}
+  - component: {fileID: 2847095536101386137}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1669252426867065005
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7075576108265039813}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2.7410483, y: 0.93539476, z: 0.016821023}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 1
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2193743448424201423
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7075576108265039813}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70f7b7100f4d21c47beda8162be773df, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  targetFPS: 60
+  playerPrefab: {fileID: 8892622126916963509, guid: 440f5e9378a45fc4697d829b5007268d, type: 3}
+  asteroidPrefab: {fileID: 7756705757306307811, guid: b9e9dbc5fea85e845b0628e0d5b900c5, type: 3}
+  bulletPrefab: {fileID: 5189588570687309589, guid: f35de55ea3c471942880944151cfb9c7, type: 3}
+  initialAsteroids: 10
+  spawnInterval: 15
+  spawnRadius: 15
+  asteroidSpeedRange: {x: 11, y: 10}
+  minAsteroidSize: 1
+  maxAsteroidSize: 2
+--- !u!114 &4250100727704015050
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7075576108265039813}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0225a5e38a1a224497b67cdce50c2b9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  orbPrefab: {fileID: 8036815343192248322, guid: d08fbcf3509a3d540a3ddab1c05e0c73, type: 3}
+  areaMin: {x: -2240, y: -542}
+  areaMax: {x: -39, y: 620}
+  orbsPorFrame: 2
+--- !u!114 &2847095536101386137
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7075576108265039813}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55e3098220918f447954069ae58cbc99, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  coletaSound: {fileID: 8300000, guid: e946d5843f247a74798662aabf4af5aa, type: 3}

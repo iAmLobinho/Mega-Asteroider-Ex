@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - GameManager
+  - Orb
+  - Map
+  - Chunkloader
+  - Orbs
+  - Vida
+  - Limbo
+  - Asteroid
+  - estrelas
+  - Limbo_TMP_GameOver
+  - Obrs
+  - Other_TMP
+  - Camera 2
+  - Button_Reset
+  - Discord RPC
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - player
+  - Water
+  - UI
+  - bullet
+  - MiniView
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - "fund\xE3o"
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: "fund\xE3o"
+    uniqueID: 6473083
+    locked: 0
+  - name: bullet
+    uniqueID: 313052299
+    locked: 0
+  - name: player
+    uniqueID: 2155466409
+    locked: 0
+  - name: orb
+    uniqueID: 1820660977
+    locked: 0
+  - name: asteroid
+    uniqueID: 70139703
+    locked: 0

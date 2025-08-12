@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 70f7b7100f4d21c47beda8162be773df
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerPrefab: {fileID: 8892622126916963509, guid: 440f5e9378a45fc4697d829b5007268d, type: 3}
+  - asteroidPrefab: {fileID: 7756705757306307811, guid: b9e9dbc5fea85e845b0628e0d5b900c5, type: 3}
+  - bulletPrefab: {fileID: 5189588570687309589, guid: f35de55ea3c471942880944151cfb9c7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
